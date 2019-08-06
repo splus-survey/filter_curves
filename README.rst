@@ -1,4 +1,4 @@
-S-MAPS telescope filter transmission curves
+S-MAPS telescope filter transmission curves using ESO sky transmittance
 -------------------------------------------
 
 .. image:: https://github.com/s-maps/filter_curves/raw/master/splus_filters.png
